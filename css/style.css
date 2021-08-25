@@ -16,8 +16,13 @@ h2 {
     color: navy;
     text-align: center;
     margin: 0;
+    text-decoration: none;
 }
 
 .link {
     color: gray;
+}
+
+.link:hover {
+    text-decoration: underline;
 }
