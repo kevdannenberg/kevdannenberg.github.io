@@ -9,18 +9,16 @@ body {
 h1 {
     color: navy;
     text-align: center;
-    margin: 0;
 }
 
 h2 {
     color: navy;
     text-align: center;
-    margin: 0;
-    text-decoration: none;
 }
 
 .link {
     color: gray;
+    text-decoration: none;
 }
 
 .link:hover {
